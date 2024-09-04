@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ousynaphe.github.io/sitemap.html.gz
+Sitemap: https://ousynaphe.github.io/app/sitemap.html.gz
+Sitemap: https://ousynaphe.github.io/assets/sitemap.html.gz
+Sitemap: https://ousynaphe.github.io/css/sitemap.html.gz
+Sitemap: https://ousynaphe.github.io/includes/sitemap.html.gz
+Sitemap: https://ousynaphe.github.io/item/sitemap.html.gz
+Sitemap: https://ousynaphe.github.io/src/sitemap.html.gz
